@@ -1,0 +1,64 @@
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\Pratica2.exe.config
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\Pratica2.exe
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\Pratica2.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.csproj.AssemblyReference.cache
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.FormTelaPrincipal.resources
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.Properties.Resources.resources
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.csproj.GenerateResource.cache
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.csproj.CoreCompileInputs.cache
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.exe
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\libSkiaSharp.dylib
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\ScottPlot.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\SkiaSharp.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Buffers.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Memory.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.ValueTuple.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\SkiaSharp.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\SkiaSharp.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Buffers.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Memory.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.ValueTuple.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.csproj.CopyComplete
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Drawing.Common.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\ScottPlot.xml
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\libSkiaSharp.dylib
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\Pratica2.exe.config
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\Pratica2.exe
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\Pratica2.pdb
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\ScottPlot.dll
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\SkiaSharp.dll
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\System.Buffers.dll
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\System.Drawing.Common.dll
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\System.Memory.dll
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\System.ValueTuple.dll
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\ScottPlot.xml
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\SkiaSharp.pdb
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\SkiaSharp.xml
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\System.Buffers.xml
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\System.Memory.xml
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pedro\UFU\SCTR\Pratica2\bin\Debug\System.ValueTuple.xml
+C:\Users\pedro\UFU\SCTR\Pratica2\obj\Debug\Pratica2.csproj.AssemblyReference.cache
+C:\Users\pedro\UFU\SCTR\Pratica2\obj\Debug\Pratica2.FormTelaPrincipal.resources
+C:\Users\pedro\UFU\SCTR\Pratica2\obj\Debug\Pratica2.Properties.Resources.resources
+C:\Users\pedro\UFU\SCTR\Pratica2\obj\Debug\Pratica2.csproj.GenerateResource.cache
+C:\Users\pedro\UFU\SCTR\Pratica2\obj\Debug\Pratica2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\UFU\SCTR\Pratica2\obj\Debug\Pratica2.csproj.CopyComplete
+C:\Users\pedro\UFU\SCTR\Pratica2\obj\Debug\Pratica2.exe
+C:\Users\pedro\UFU\SCTR\Pratica2\obj\Debug\Pratica2.pdb
+C:\Users\pedro\UFU\SCTR\Pratica2\obj\Debug\Pratica2.FormUserChat.resources
